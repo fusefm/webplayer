@@ -1,0 +1,77 @@
+body {
+	background: #514e55 url(http://fusefm.co.uk/sites/default/themes/fusefm/images/fusebg.jpg) fixed;
+}
+
+#Wrapper {
+	margin: 20px auto 0 auto;
+	width: 820px;
+	background: #ffffff;
+	font-family: Tahoma, Verdana, Arial;
+	font-size: 12px;
+}
+#PlayerBar {
+	background: #000000 url(img/ButtonBackground.gif);
+	height: 25px;
+	padding: 0 20px 0 20px;
+	color: #ffffff;
+}
+#PlayerBar a {
+	color: #ffffff;
+	text-decoration: none;
+}
+#PlayerOpts {
+	float: right;
+	padding: 0 5px 0 0;
+	line-height: 25px;
+}
+#PlayerOpts a {
+	padding: 0 0 0 5px;
+}
+#PlayerSwf {
+	float: right;
+}
+#Menu {
+	margin: 0;
+	padding: 3px 0 3px 0;
+	list-style-type: none; 
+}
+#Menu li:first-child {
+	border-left: 1px #cccccc solid;
+}
+#Menu li {
+	margin: 0;
+	float: left;
+	padding: 0 8px 0 8px;
+	line-height: 19px;
+	border-right: 1px #cccccc solid; 
+}
+
+#Main {
+	background: #cccccc url(img/MainBackground.jpg) no-repeat;
+	padding: 20px 20px 0 20px;
+	border: 1px #000000 solid;
+}
+#Right {
+	float: right;
+	margin: 0 0 0 20px;
+}
+
+#OnAir {
+	font-size: 14px;
+	line-height: 22px;
+}
+
+#studio1 {
+}
+#studio2 {
+	display: none;
+}
+#lounge {
+	display: none;
+}
+#fishcam {
+	display: none;
+}
+#contact {
+	display: none;
+}
